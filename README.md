@@ -7,4 +7,5 @@ Lorem ipsum
 mame sme problem s merge
 
 ## Plany
-pridat nove bags aby fixnut ich v novej versii
+urobit daco
+
